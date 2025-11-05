@@ -1,4 +1,4 @@
-\`\`\`mermaid
+```mermaid
 mindmap
   root((**IaC 기반 클라우드 구축** (총 32시간)))
     1. IaC 개요 및 기본 (4시간)
